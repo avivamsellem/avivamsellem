@@ -1,7 +1,7 @@
 <div style="text-align: center; font-size:18px;">
 	<div style="display: inline-block; text-align: left; color:#1d1d1d; font-family: 'Lato', sans-serif;">
 		<h1 align="center" style="color:#1d1d1d; font-family: 'Lato', sans-serif ;">Hi 👋, I am Aviv</h1>
-		<h3 align="center" style="color:#1d1d1d; font-family: 'Lato', sans-serif;">Senior year student in and Software Information System Engineering at Ben-Gurion University<br>One semester to graduation</h3>
+		<h3 align="center" style="color:#1d1d1d; font-family: 'Lato', sans-serif;">Senior year student in Software and Information System Engineering at Ben-Gurion University<br>One semester to graduation</h3>
 		<br>
 		<p>
 		<h3 style="color:#1d1d1d; font-family: 'Lato', sans-serif;">☑️ Looking for a Junior Developer position.</h3>
