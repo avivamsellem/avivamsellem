@@ -15,7 +15,7 @@
 		</p>
 		<p><b>My Final Project - "WeKeyLeaks" - ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 80%</b></p>
 		Developing an attack model by controlling gaming keyboards<br>
-		and leaking information through them using a camera and Computer Vision.<br>
+		and leaking information through them using a camera and Computer Vision.<br><br>
 		<p><b>Projects in my Git:</b></p>
 		<ul>
 		  <li><b>Information Retrieval Project:</b> Building Search Engine, creation of inverted index and query handling, built in Java. <a href="https://drive.google.com/file/d/1zS6FP6hRZWQKJBIoIaOuO02wiqSd7kgl/view?usp=sharing">Video here</a></li>
